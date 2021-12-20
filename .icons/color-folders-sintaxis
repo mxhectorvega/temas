@@ -1,0 +1,11 @@
+## Mostrar el color actual y los colores disponibles para Papirus-Dark
+papirus-folders -l --theme Papirus-Dark
+
+##Cambiar el color de las carpetas a marrón para Papirus-Dark
+papirus-folders -C brown --theme Papirus-Dark
+
+##Volver al color predeterminado de las carpetas para Papirus-Dark
+papirus-folders -D --theme Papirus-Dark
+
+##Restaurar el último color utilizado desde un archivo de configuración
+papirus-folders -Ru
