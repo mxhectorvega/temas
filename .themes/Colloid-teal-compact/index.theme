@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Colloid-teal-compact
+Comment=An Flat Gtk+ theme based on Elegant Design
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Colloid-teal-compact
+MetacityTheme=Colloid-teal-compact
+IconTheme=Tela-circle
+CursorTheme=Colloid-cursors
+ButtonLayout=close,minimize,maximize:menu
